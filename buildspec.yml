@@ -5,6 +5,3 @@ phases:
     commands:
       - dotnet restore
       - dotnet build
-artifacts:
-  files:
-    - bin/Debug/netcoreapp2.0/*
