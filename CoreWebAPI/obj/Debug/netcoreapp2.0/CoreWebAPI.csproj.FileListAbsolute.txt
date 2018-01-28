@@ -1,0 +1,11 @@
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.deps.json
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.runtimeconfig.json
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.runtimeconfig.dev.json
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.dll
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.pdb
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.csprojResolveAssemblyReference.cache
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.csproj.CoreCompileInputs.cache
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.AssemblyInfoInputs.cache
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.AssemblyInfo.cs
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.dll
+/Users/robertzimmerman/Projects/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.pdb
