@@ -27,7 +27,7 @@ namespace CoreWebAPI
                     Id = 2,
                     CityName = "Chicago",
                     State = "IL",
-                    Population = 9000000,
+                    Population = 9000050,
                     Description = "The Windy City"
                 },
                 new CityDto()
