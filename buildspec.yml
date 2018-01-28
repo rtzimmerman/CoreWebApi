@@ -3,5 +3,6 @@ version: 0.2
 phases:
   build:
     commands:
+      - echo Build Process Started
       - dotnet restore
       - dotnet build
