@@ -35,7 +35,7 @@ namespace CoreWebAPI
                     Id = 3,
                     CityName = "Seattle",
                     State = "WA", 
-                    Population = 4000000,
+                    Population = 4300500,
                     Description = "The Emerald City"
                 }
             };
